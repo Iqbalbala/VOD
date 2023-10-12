@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-user-agent=Android-R+
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubRoundup2.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
-https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc715e3091fb40d/h/cab4/f.m3u8
+https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc051f40c16e80911c1f7ee3817/h/cab4/abaaecbd,652869e8.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
-https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc715e3091fb40d/h/cab3/f.m3u8
+https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc051f40c16e80911c1f7ee3817/h/cab3/abaaecbd,652869e8.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
-https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc715e3091fb40d/h/cab1/f.m3u8
+https://y1ppd.3straightwise.online/_v1/12a3c526fa105800ed8c394685aeeb0b932efa5c5ebce3f24e467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3385435a3876fc051f40c16e80911c1f7ee3817/h/cab1/abaaecbd,652869e8.m3u8
